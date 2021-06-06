@@ -1,5 +1,5 @@
 <H2>Intermediary Project Submissions:</H2>
-List of Submissions:
+<p>List of Submissions:</p>
 <ol>
   <li>Initial Project Ideas</li>
   <li>Project Proposal</li>
